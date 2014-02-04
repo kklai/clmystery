@@ -23,7 +23,7 @@ touch <filename> : create new file
 
 rm <filename> : remove file
 
-
+ <br />
 
 ### Useeful commands / Shortcuts
 
@@ -35,7 +35,7 @@ ctrl + i : search previous commands
 
 ctrl + l : clear window
 
-
+ <br />
 
 ### Reading Files
 
