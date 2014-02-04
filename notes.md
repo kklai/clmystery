@@ -72,7 +72,7 @@ grep "searchterm" <filename>
 
 -r : recurring
 
-"*" : every file
+" * " (Asterisk) : within every file
 
 -A number : print out line with match and 4 lines after
 
